@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <>
-      <h1>WELCOME TO MY PORTFOLIO SITE</h1>
+      <h1>This is my portfolio</h1>
     </>
   );
 }
